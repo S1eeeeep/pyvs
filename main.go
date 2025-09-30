@@ -23,7 +23,7 @@ var version = "1.0.0"
 const PATH = "PATH"
 
 const (
-	defaultOriginalpath = "https://hub.gitmirror.com/raw.githubusercontent.com/S1eeeeep/pyvs/refs/heads/main/pythonindex.json"
+	defaultOriginalpath = "https://hub.gitmirror.com/raw.githubusercontent.com/S1eeeeep/pyvs/refs/heads/main/pyindex.json"
 )
 
 type Config struct {
@@ -375,3 +375,4 @@ func getPythonHome(pythonTempFile string) string {
 	})
 	return pythonHome
 }
+
