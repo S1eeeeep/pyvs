@@ -186,13 +186,6 @@ pyvs switch 1  # 切换到3.13
 pyvs rls -a
 ```
 
-### 自定义Python安装目录
-如果你想把Python安装到其他位置，可以在初始化时指定：
-
-```bash
-pyvs init --python_home="D:\MyPython"
-```
-
 ## 技术支持
 
 如果遇到问题，你可以：
