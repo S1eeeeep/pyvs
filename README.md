@@ -8,6 +8,8 @@ PYVS是一个专门为Windows系统设计的Python版本管理工具。简单来
 - 🔄 轻松切换当前使用的Python版本
 - 📦 自动下载和安装Python，无需手动操作
 - 🎯 让新手也能轻松管理Python环境
+- 🔧 [PYVS](https://github.com/S1eeeeep/pyvs), [Download Now](https://github.com/S1eeeeep/pyvs/releases)!
+
 
 ## 为什么需要PYVS？
 
@@ -196,6 +198,10 @@ pyvs init --python_home="D:\MyPython"
 1. 查看本文档的"常见问题"部分
 2. 检查网络连接和权限设置
 3. 重新运行初始化命令
+
+## 感谢
+
+参考项目[jvms](https://github.com/ystyle/jvms)
 
 ## 许可证
 
